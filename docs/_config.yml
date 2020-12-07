@@ -26,6 +26,7 @@ baseurl: # the subpath of your site, e.g. /blog
 url: https://earthlightgames.org/
 twitter_username: dpruzi
 github_username:  dpruzi
+logo: /assets/EG/logo.png
 
 # Build settings
 theme: jekyll-theme-minimal

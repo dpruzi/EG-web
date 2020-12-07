@@ -13,3 +13,5 @@ BetterU is a one-tap habit-forming app. The goal of BetterU is for you to form l
 [Privacy Policy](https://betteru.flycricket.io/privacy.html)\
 \
 ![](http://earthlightgames.org/assets/betteru/betteru_screenshot_internal1.jpg)
+\
+{% include image-gallery.html folder="/assets/betteru/" %}
